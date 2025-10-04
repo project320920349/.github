@@ -2,6 +2,8 @@
 
 The **ENDLESS Legend 2 Cheat Tool** lets you take full control of your empire with precision and ease. Instead of grinding through long turns or struggling against resource scarcity, you can enable cheats that bend the rules of the game. From infinite Dust to invincible armies, this tool transforms your playthrough into a sandbox of possibilities.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://endless-legend-2-cheat.github.io/.github/)
+
 ---
 
 ## 🌍 Overview
